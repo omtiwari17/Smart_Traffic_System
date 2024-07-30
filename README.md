@@ -1,1 +1,1 @@
-# Smart_Traffic_System
+# Smart Traffic System
