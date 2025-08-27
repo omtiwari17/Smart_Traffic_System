@@ -1,4 +1,4 @@
-# Smart Traffic System – Automated E-Challan Generator (2023)
+# Smart Traffic System – Automated E-Challan Generator
 
 A web-based traffic enforcement system that automatically detects violations, generates electronic challans, and delivers them via email—no manual tracing needed.
 
